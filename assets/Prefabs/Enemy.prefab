@@ -176,9 +176,9 @@
     "bullet": false,
     "awakeOnLoad": true,
     "_group": 1,
-    "_type": 1,
-    "_allowSleep": true,
-    "_gravityScale": 1,
+    "_type": 2,
+    "_allowSleep": false,
+    "_gravityScale": 0,
     "_linearDamping": 0,
     "_angularDamping": 0,
     "_linearVelocity": {
@@ -226,7 +226,7 @@
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "7e1vTv35NKirNQk3zzuFjN"
+    "fileId": "a8OQmNsz5Nbo4KKYVdSNgx"
   },
   {
     "__type__": "cc.PrefabInfo",
